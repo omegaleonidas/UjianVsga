@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ECEFF1"
+    android:padding="5dp">
+
+    <TextView
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:text="@string/no"
+        android:id="@+id/noTabel"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/nama"
+        android:id="@+id/namaTabel"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="@string/alamat"
+        android:id="@+id/alamatTabel"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/nobp"
+        android:id="@+id/noHpTabel"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+
+        android:text="@string/jenis_kelamin"
+        android:id="@+id/jenisKelaminTabel"/>
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="@string/foto"
+        android:id="@+id/photoTabel"
+        />
+</TableRow>

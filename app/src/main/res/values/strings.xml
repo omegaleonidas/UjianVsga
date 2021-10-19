@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UjianVsga</string>
+    <string name="inputImage">Input Image</string>
+    <string name="Simpan">Simpan</string>
+
+    <string name="nobp">No hp</string>
+    <string name="jurusan">Alamat</string>
+    <string name="alamat">Alamat</string>
+    <string name="ambil_lokasi_saat_ini">ambil lokasi sekarang</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hasil_pendaftaran">pendaftaran</string>
+    <string name="no">No</string>
+    <string name="nama">nama</string>
+    <string name="lokasi_pendaftaran">lokasi</string>
+    <string name="foto">fhoto</string>
+</resources>
